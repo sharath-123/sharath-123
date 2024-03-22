@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **React Native , Kotlin , Java**
+- 🌱 I’m currently learning **React , Kotlin , Java**
 
 - 🤝 I’m looking for help with **Industrial Project Experience**
 
