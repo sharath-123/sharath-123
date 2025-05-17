@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sharath Akkaldevi</h1>
-<h3 align="center">A passionate Software Developer / Front End developer from India</h3>
+<h3 align="center">A software Engineer based out of Hyderabad,India</h3>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **MERN Stack ( Reactjs, Express.js, Node.js, JavaScript) **
 
-- 🌱 I’m currently learning **React , Kotlin , Java**
+- 🌱 I’m currently learning **React, Java, JavaScript, Node.js, DSA, System Design, MongoDB**
 
-- 🤝 I’m looking for help with **Industrial Project Experience**
+- 💬 Ask me about **Java , Html , css, JavaScript , React , Node.js, Express.js, Restful API's, Responsiveness**
 
-- 💬 Ask me about **Java , Html , css, Js , React , Kotlin**
+- 📫 How to reach me **sharathchakri1@gmail.com**
 
-- 📫 How to reach me **sharathakkaldevi@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IpRil5Sy51F-ZY_GH0Jis9JIr52Z9EuP/view?usp=sharing](https://drive.google.com/file/d/1IpRil5Sy51F-ZY_GH0Jis9JIr52Z9EuP/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iImT2zIEVKpBdhbnU7xm1NLvztfG6nLK/view?usp=sharing](https://drive.google.com/file/d/1iImT2zIEVKpBdhbnU7xm1NLvztfG6nLK/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/sharath-akkaldevi/ </h3>
 <p align="left">
 <a href="https://fb.com/sharath akkaldevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharath akkaldevi" height="30" width="40" /></a>
 <a href="https://instagram.com/sharath_akkaldevi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharath_akkaldevi" height="30" width="40" /></a>
